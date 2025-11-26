@@ -1,4 +1,4 @@
-## # Mintlify Office Printer Package Documentation
+## Mintlify Office Printer Package Documentation
 
 ---
 
